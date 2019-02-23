@@ -1,1 +1,6 @@
-Hello world
+Hello Sda
+
+Nowa funkcjonalnosc
+int = 0;
+
+Ad
