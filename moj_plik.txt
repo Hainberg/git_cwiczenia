@@ -1,4 +1,4 @@
 Hello Sda
 
 Nowa funkcjonalnosc
-private float = 90;
+private double = 40;
