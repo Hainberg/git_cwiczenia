@@ -2,3 +2,4 @@ Hello Sda
 
 Nowa funkcjonalnosc
 private double = 40;
+raz
