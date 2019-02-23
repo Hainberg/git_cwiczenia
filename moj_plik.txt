@@ -3,4 +3,4 @@ Hello Sda
 Nowa funkcjonalnosc
 int = 0;
 
-Ad
+Next ad
